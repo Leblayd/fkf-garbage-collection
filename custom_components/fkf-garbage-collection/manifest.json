@@ -1,7 +1,7 @@
 {
   "domain": "fkf_garbage_collection",
   "name": "FKF Budapest Garbage Collection",
-  "documentation": "https://github.com/amaximus/fkf_garbage_collection",
+  "documentation": "https://github.com/amaximus/fkf-garbage-collection",
   "dependencies": [],
   "config_flow": false,
   "codeowners": ["@amaximus"],
